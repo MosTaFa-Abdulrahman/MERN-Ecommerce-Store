@@ -1,0 +1,4 @@
+1- https://flowbite.com/docs/getting-started/react/
+2- https://medium.com/boca-code/how-to-encrypt-password-in-your-react-app-before-you-send-it-to-the-api-6e10a06f0a8e
+3- https://unsplash.com/
+4- https://developer.paypal.com/dashboard/
